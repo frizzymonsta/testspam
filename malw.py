@@ -9,7 +9,7 @@ class Malware_down:
         for i in range(0, self.ii):
             spam.append(i)
 
-        return print(spam)
+        return spam
 
 
 if __name__ == '__main__':
