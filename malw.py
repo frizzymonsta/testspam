@@ -14,7 +14,8 @@ class Malware_down:
 
 def main():
     s = Malware_down()
-    Malware_down.spam(s)
+    x = Malware_down.spam(s)
+    return x
 
 
 if __name__ == '__main__':
