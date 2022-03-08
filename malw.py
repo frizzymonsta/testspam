@@ -16,5 +16,6 @@ def main():
     s = Malware_down()
     Malware_down.spam(s)
 
+
 if __name__ == '__main__':
     main()
