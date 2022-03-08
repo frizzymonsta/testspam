@@ -1,7 +1,7 @@
 class Malware_down:
 
     def __init__(self):
-        self.ii = 100000
+        self.ii = 100
 
     def spam(self):
         spam = []
